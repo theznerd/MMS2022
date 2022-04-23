@@ -1,0 +1,1 @@
+Git-ChildItem c:\ -Recurse
